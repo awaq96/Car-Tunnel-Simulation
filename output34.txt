@@ -1,0 +1,27 @@
+Maximum number of cars in the tunnel: 2
+Maximum number of northbound cars in the tunnel: 1
+Maximum number of southbound cars in the tunnel: 1
+Southbound car # 1 arrives at the tunnel.
+Southbound car # 1 enters the tunnel.
+Northbound car # 1 arrives at the tunnel.
+Northbound car # 1 enters the tunnel.
+Southbound car # 2 arrives at the tunnel.
+-- Southbound car # 2 has to wait.
+Southbound car # 3 arrives at the tunnel.
+-- Southbound car # 3 has to wait.
+Southbound car # 1 exits the tunnel.
+Southbound car # 2 enters the tunnel.
+Northbound car # 1 exits the tunnel.
+Northbound car # 2 arrives at the tunnel.
+Northbound car # 2 enters the tunnel.
+Southbound car # 2 exits the tunnel.
+Southbound car # 3 enters the tunnel.
+Northbound car # 3 arrives at the tunnel.
+-- Northbound car # 3 has to wait.
+Northbound car # 2 exits the tunnel.
+Northbound car # 3 enters the tunnel.
+Southbound car # 3 exits the tunnel.
+Northbound car # 3 exits the tunnel.
+3 northbound car(s) crossed the tunnel.
+3 southbound car(s) crossed the tunnel.
+3 car(s) had to wait.
